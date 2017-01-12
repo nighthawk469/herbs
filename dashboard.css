@@ -98,7 +98,7 @@ body {
  */
 
 .main {
-  padding:0px;
+  padding: 0px;
   /*padding: 20px;*/
 }
 @media (min-width: 768px) {
@@ -109,7 +109,7 @@ body {
 }
 .main .page-header {
   margin-top: 0;
-  padding: 20px;
+  /*padding: 20px;*/
 }
 
 .no-gutter {
