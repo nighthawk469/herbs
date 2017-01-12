@@ -99,6 +99,7 @@ body {
 
 .main {
   padding: 0px;
+  /*padding: 20px;*/
 }
 @media (min-width: 768px) {
   .main {
