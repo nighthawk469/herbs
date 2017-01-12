@@ -21,10 +21,7 @@ body {
  */
 
 
- .no-gutter {
- 	padding-left:0;
-   padding-right:0;
- }
+
 
 
 /*https://codepen.io/bootstrapped/pen/KwYGwq*/
@@ -131,4 +128,10 @@ body {
 .placeholder img {
   display: inline-block;
   border-radius: 50%;
+}
+
+
+.no-gutter {
+ padding-left:0;
+  padding-right:0;
 }
