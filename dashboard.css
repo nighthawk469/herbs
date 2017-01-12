@@ -97,9 +97,10 @@ body {
  * Main content
  */
 
+ /*currently no padding*/
+
 .main {
-  padding: 0px;
-  /*padding: 20px;*/
+  padding: 0px;/*padding: 20px; having comment underneath fucks up*/
 }
 @media (min-width: 768px) {
   .main {
